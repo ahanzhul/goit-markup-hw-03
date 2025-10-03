@@ -186,6 +186,10 @@ img {
 .features-list .card {
   flex-basis: calc((100% - 72px) / 4);
 }
+.features-list .card h3 {
+  margin-bottom: 8px;
+}
+
 
 .team {
   background-color: #f4f4fd;
